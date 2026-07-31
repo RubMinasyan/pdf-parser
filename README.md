@@ -23,8 +23,8 @@ The parser extracts:
 Clone the repository:
 
 ```bash
-git clone https://github.com/RubMinasyan/YOUR-REPOSITORY.git
-cd pdf_parser_project
+git clone https://github.com/RubMinasyan/pdf-parser.git
+cd pdf-parser
 ```
 
 Create and activate a virtual environment:
